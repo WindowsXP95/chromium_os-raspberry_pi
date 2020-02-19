@@ -19,5 +19,5 @@ DEPEND="${RDEPEND}"
 S="${WORKDIR}"
 
 src_install() {
-      doappid "{4D3D2356-0ABF-4994-B191-9A16A11AC0C6}" "CHROMEBOX" 
+      doappid "{4D3D2356-0ABF-4994-B191-9A16A11AC0C6}" "ChromiumPi" 
 }
