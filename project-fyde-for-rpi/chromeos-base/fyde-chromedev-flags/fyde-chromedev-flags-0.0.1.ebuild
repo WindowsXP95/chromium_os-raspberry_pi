@@ -4,7 +4,7 @@
 EAPI="4"
 inherit chrome-dev-flag 
 DESCRIPTION="append chrome command line flags"
-HOMEPAGE="http://fydeos.com"
+HOMEPAGE="http://google.com"
 
 LICENSE="BSD-Google"
 SLOT="0"
